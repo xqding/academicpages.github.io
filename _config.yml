@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xinqiang Ding"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in the Bioinformatics program at the University of Michigan"
   location         : "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=_Xon_PMAAAAJ&hl=en"
-  email            :
+  email            : xqding@umich.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/xqding/
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
