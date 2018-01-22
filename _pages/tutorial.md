@@ -8,4 +8,4 @@ author_profile: true
 
 ## Statistics and Machine Learning
 
-* [A simple PyTorch script for linear regression.](https://github.com/xqding/StatisticsExamples/blob/master/Rao-Blackwellization/main.ipynb)
+* [A simple PyTorch script for linear regression.](https://github.com/xqding/Tutorial/blob/master/LinearRegressionUsingPyTorch/main.ipynb)
